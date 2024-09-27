@@ -12,8 +12,8 @@
 - ) (right parenthesis)
 ## Links
 [George Brown college link](georgebrown.ca)
-[another random link] (Facebook.com)
-[yet another] (instagram.com)
+[W3schools Link](W3schools.com)
+[Random link](https://www.nhl.com/mapleleafs/)
 ### EXPERIMENTS
 HELLO!👋👋👋,
 now lets play with some emoji's :smile:,
