@@ -21,3 +21,7 @@ while i tell you a brief story of myself using emoji's 😆,
 i am a boy :man:,
 and i study Computer Programming and analysis at George brown college toronto, Casa Loma Campus 🏫,
 have a nice day 😄👋👋.
+
+
+## this is the link for cli.md
+[CLI commands](docs/cli.md)
