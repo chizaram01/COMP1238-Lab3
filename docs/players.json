@@ -1,6 +1,6 @@
 [
     {
-        "name": "LeBron James", 
+        "name": "LeBron James", //string
         "sport": "Basketball",
         "team": {
             "name": "Lakers",
@@ -10,7 +10,7 @@
         "age": 38
     },
     {
-        "name": "Lionel Messi",
+        "name": "Lionel Messi", //string
         "sport": "Soccer",
         "team": {
             "name": "Inter Miami",
