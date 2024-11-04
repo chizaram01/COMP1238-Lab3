@@ -7,7 +7,7 @@
             "city": "Los Angeles"
         },
         "position": "Forward",
-        "age": 38
+        "age": 38 //number
     },
     {
         "name": "Lionel Messi", //string
@@ -17,17 +17,17 @@
             "city": "Miami"
         },
         "position": "Forward",
-        "age": 36
+        "age": 36  //number
     },
     {
         "name": "Tom Brady",
         "sport": "Football",
-        "team": {
+        "team": {                       //object
             "name": "Buccaneers",
-            "city": "Tampa Bay"
+            "city": "Tampa Bay"         //object
         },
         "position": "Quarterback",
-        "age": 46
+        "age": 46  //number
     }
 ]
 
